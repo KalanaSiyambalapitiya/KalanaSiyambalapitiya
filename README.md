@@ -3,7 +3,7 @@
 
  
 
-<img src="https://github.com/user-attachments/assets/b7bbef1a-9148-4846-a4e9-0729a94ef887" alt="GIF Description" width="200" height="150" align = "center">
+<img src="https://github.com/user-attachments/assets/b7bbef1a-9148-4846-a4e9-0729a94ef887" alt="GIF Description" width="200" height="150" align = "right">
 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalanasiyambalapitiya&label=Profile%20views&color=0e75b6&style=flat" alt="kalanasiyambalapitiya" /> </p>
