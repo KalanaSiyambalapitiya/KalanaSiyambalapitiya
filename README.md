@@ -1,6 +1,9 @@
  <h1 align="center">Hi 👋, I'm Kalana Tharuka</h1>
 <h3 align="center">A passionate Full-Stack Developer Internship</h3>
-![GIFDescription](https://github.com/KalanaSiyambalapitiya/KalanaSiyambalapitiya/blob/689e23f0b7b7f953598cc48fee768ca2f6032c75/githunreadme.gif)
+
+ 
+
+
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalanasiyambalapitiya&label=Profile%20views&color=0e75b6&style=flat" alt="kalanasiyambalapitiya" /> </p>
 
