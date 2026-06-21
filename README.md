@@ -1,5 +1,5 @@
  <html>
-  ```html
+  
 <h1 align="center">Hi 👋, I'm Kalana Tharuka</h1>
 <h3 align="center">An Aspiring DevOps Engineer | Cloud & Automation Enthusiast</h3>
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Linux, Git, Docker, AWS, Python, and DevOps Fundamentals**
 
-- 📫 How to reach me: **kalanatharuka2225@gmail.com**
+- 📫 How to reach me: **kalanasiyambalapitiyadev@gmail.com**
 
 - ⚡ Fun fact: **I enjoy automating repetitive tasks and exploring cloud technologies**
 
