@@ -1,4 +1,5 @@
- ```html
+ <html>
+  ```html
 <h1 align="center">Hi 👋, I'm Kalana Tharuka</h1>
 <h3 align="center">An Aspiring DevOps Engineer | Cloud & Automation Enthusiast</h3>
 
@@ -80,3 +81,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalanasiyambalapitiya&show_icons=true&locale=en&layout=compact" alt="kalanasiyambalapitiya" />
 </p>
 ```
+
+ </html>
